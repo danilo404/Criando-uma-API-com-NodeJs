@@ -1,0 +1,28 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "este e um teste da nossa API",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "test",
+    "API",
+    "Artigo"
+  ],
+  "author": "Danilo Jose",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.16"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "teste API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilo404/APItest.git"
+  },
+  "keywords": [
+    "teste",
+    "API"
+  ],
+  "author": "danilo jose",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/danilo404/APItest/issues"
+  },
+  "homepage": "https://github.com/danilo404/APItest#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
